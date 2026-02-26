@@ -1,6 +1,8 @@
-streamlit
-easyocr
+streamlit==1.54.0
+easyocr==1.7.2
 opencv-python-headless
 pillow
 numpy
 pandas
+torch
+torchvision
