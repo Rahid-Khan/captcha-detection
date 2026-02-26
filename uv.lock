@@ -53,6 +53,7 @@ dependencies = [
     { name = "easyocr" },
     { name = "numpy" },
     { name = "opencv-python" },
+    { name = "opencv-python-headless" },
     { name = "pillow" },
     { name = "streamlit" },
 ]
@@ -62,6 +63,7 @@ requires-dist = [
     { name = "easyocr", specifier = ">=1.7.2" },
     { name = "numpy", specifier = ">=2.4.2" },
     { name = "opencv-python", specifier = ">=4.13.0.92" },
+    { name = "opencv-python-headless", specifier = ">=4.13.0.92" },
     { name = "pillow", specifier = ">=12.1.1" },
     { name = "streamlit", specifier = ">=1.54.0" },
 ]
